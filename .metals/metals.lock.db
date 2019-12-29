@@ -1,0 +1,6 @@
+#FileLock
+#Tue Sep 10 22:03:34 NPT 2019
+hostName=localhost
+id=16d1bf833d0beafa1d006139a2dfc98e099d403d5a4
+method=file
+server=localhost\:58999
